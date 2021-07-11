@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/johan-lejdung/go-microservice-api-guide/internal/app"
-	"github.com/johan-lejdung/go-microservice-api-guide/internal/db"
+	"github.com/andrimarin/go-microservice-api-guide/internal/app"
+	"github.com/andrimarin/go-microservice-api-guide/internal/db"
 )
 
 func main() {
